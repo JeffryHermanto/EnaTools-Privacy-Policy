@@ -1,0 +1,29 @@
+html,
+body {
+  background-color: #0e3990;
+  font-family: "DM Sans", sans-serif;
+}
+
+.container {
+  width: 80%;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 36px;
+  background-color: white;
+}
+
+p {
+  color: #555;
+}
+
+.AppIcon {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 200px;
+}
+
+.AppTitle {
+  text-align: center;
+  margin-bottom: 50px;
+}
